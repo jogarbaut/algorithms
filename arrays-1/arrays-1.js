@@ -43,6 +43,7 @@ function insertAt(arr, ind, val) {
     return arr;
 }
 
+// Problem 3 test
 testArr = [1, 2, 3];
 ind = 1;
 val = 5;
